@@ -1,0 +1,1 @@
+I didn't write the bug — I just predicted the next token, and it happened to be a bug.
